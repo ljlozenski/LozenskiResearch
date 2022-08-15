@@ -6,7 +6,7 @@
 
 I'm currently a third year Ph.D. candidate at Washington University in St. Louis. My thesis topic is in developing numerical methods for solving large scale image reconstruction, inverse, and optimization problems related to dynamic and multispectral photoacoustic tomography. This includes the development of scientific machine learning frameworks, such as neural fields and convolutional neural networks for real-time reconstruction. I also have a broader interest in infinite-dimensional/functional optmization, including those with PDE constraints, and am open to a very wide range of research topics.
 
-[Link to my CV](https://github.com/ljlozenski/LozenskiResearch/files/9334154/Lozenski_CV.pdf)
+[Link to my CV](https://github.com/ljlozenski/LozenskiResearch/files/9334796/Lozenski_CV.pdf)
 
 
 ## Biography
