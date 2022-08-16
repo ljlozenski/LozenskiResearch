@@ -28,16 +28,15 @@ M. Watanabe, and L. Lozenski, "Thermodynamics study of absorption of aromatic or
 
 ## Research Topics
 
-* Machine learning methods for ultrasound computed tomography, June 2022-
+* Machine learning methods for ultrasound computed tomography  June 2022-
     * Applied Machine Learning Fellowship at Los Alamos National Laboratory under supervision of Youzuo Lin
     * Development of convolutional neural network for data driven solutions to USCT inverse problems
 * Neural Field for Dynamic Imaging, March 2021-
     * Development of scalable, memory-efficient dynamic image reconstruction algorithms using neural fields to represent the sought-after image 
     * Application to photoacoustic dynamic imaging (circular Radon transform)
-* Inversion Algorithms for Photoacoustic Tomography Applications in Biological Tissue,	June 2019-
-      * Development of techniques for image reconstruction of biological tissue optical absorption properties
-      * Python implementation utilizing Fenics and hiPPylib for solving inverse problems
-      * Collaboration with Dr. Mark Anastasio at University of Illinois at Urbana-Champaign
+* Inversion Algorithms for Photoacoustic Tomography Applications in Biological Tissue  June 2019-
+    * Python implementation utilizing Fenics and hiPPylib for solving inverse problems
+    * Collaboration with Dr. Mark Anastasio at University of Illinois at Urbana-Champaign
 * Consensus ADMM for Inverse Problems Governed by Multiple PDE Forward Models  	May 2020-
     * Investigation of solution methods for inverse problems governed by multiple PDE forward models and nonsmooth regularization
     * Implemented the alternating direction method of multipliers (ADMM) with demonstrated scalability with respect to problem size and number of PDE forward models
