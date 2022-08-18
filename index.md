@@ -15,7 +15,10 @@ I was born and raised in Leavenworth, Kansas. In 2020, I graduated from Washingt
 
 In the fall of 2020, I began my Ph.D. program at Washington University, where I am studying under Dr. Umberto Villa (currently at the Oden Institute, University of Texas at Austin). I expect to complete my degree in May 2025. My resesearch focuses on developing solution methods for image reconstruction and inverse problems formulated in the infinite-dimensional domain. My work in this research area has included developing an ADMM solution method for inverse problems governed by multiple PDE forward models, Bayesian estimation of tumor growth, and utilizing neural fields for image reconstruciton. 
 
-In the summer of 2022 I received the Los Alamos Applied Machine Learning Summer Reserach Fellowship. During this Fellowship I worked under the mentorship of Youzuo Lin, Hanchen Wang, and Brendt Wohlberg at Los Alamos National Laboratory on developing convolutional neural networks for real-time USCT imaging using full waveform inversion. 
+In the summer of 2022 I received the Los Alamos Applied Machine Learning Summer Reserach Fellowship. During this Fellowship I worked under the mentorship of Youzuo Lin, Hanchen Wang, and Brendt Wohlberg at Los Alamos National Laboratory on developing convolutional neural networks for real-time USCT imaging using full waveform inversion.
+
+## Repositories 
+https://github.com/precise-lab/nf_crt_dynamic_imaging
 
 ## Publications
 
