@@ -4,7 +4,7 @@
 
 
 
-I'm currently a fourth year Ph.D. candidate at Washington University in St. Louis. My thesis topic is about improving dynamic and multispectral photoacoustic and ultrasound computed tomography through the development of large-scale computational imaging methods. My research includes the development of scientific machine learning frameworks, such as neural fields and CNNs, for solving inverse problems. I also have a broader interest in infinite-dimensional/functional optmization, including those with PDE constraints, and am open to a very wide range of research topics.
+I'm currently a Ph.D. candidate at Washington University in St. Louis and plan to graduate in May 2025. I am actively looking for postdoctoral positions exploring machine learning and computational mathematics techniques. My thesis topic is about improving dynamic and multispectral photoacoustic and ultrasound computed tomography through the development of large-scale computational imaging methods. My research includes the development of scientific machine learning frameworks, such as neural fields and CNNs, for solving inverse problems. I also have a broader interest in mathematically rigourous machine learning techiniques and infinite-dimensional/functional optmization, including those with PDE constraints, and am open to a very wide range of research topics.
 
 [Link to my CV](https://github.com/ljlozenski/LozenskiResearch/blob/gh-pages/Lozenski_CV.pdf)
 
@@ -17,7 +17,7 @@ In the fall of 2020, I began my Ph.D. program at Washington University, where I 
 
 In the summer of 2022 I received the Los Alamos Applied Machine Learning Summer Reserach Fellowship. During this Fellowship I worked under the mentorship of Youzuo Lin, Hanchen Wang, and Brendt Wohlberg at Los Alamos National Laboratory on developing convolutional neural networks for real-time USCT imaging using full waveform inversion.
 
-I returned to Los Alamos the following summer in 2023 for a second internship, were I again worked with Youzuo Lin, Hanchen Wang, and Brendt Wohlberg. During this internship I worked on developing learned measurement correction methods to enable high resoltuion image reconstruction utilizing approximated physical models. 
+I returned to Los Alamos the following summer in 2023 and 2024 for a second and third internship. During the summer of 2023, I worked with Youzuo Lin and Hanchen Wang on developing learned measurement correction methods to enable high resoltuion image reconstruction utilizing approximated physical models. During the summer of 2024, I worked with Brendt Wohlberg and Michael McCann on developing an adaptive selection method for multiple penalty parameters for the alternating direction method of multipliers (ADMM) applied to optimization problems with multiple constraints.
 
 ## Repositories 
 https://github.com/precise-lab/nf_crt_dynamic_imaging
@@ -93,10 +93,6 @@ Signal Based Occupancy Detection with Application to Automobile Safety, 	      A
 * SIAM. (since 2021)
 * SPIE.   (since 2021)
 
-  
-## References
-* Dr. Umberto Villa, Research Scientist Oden Institute for Computational Engineering and Sciences, University of Texas at Austin uvilla@oden.utexas.edu Ph.D. advisor
-* Dr. Youzuo Lin, Scientist, Team Leader Geophysics Group, Los Alamos National Laboratory ylin@lanl.gov Internship Advisor
 
 
 
