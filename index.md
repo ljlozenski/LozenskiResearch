@@ -23,6 +23,7 @@ I am in the process of applying to positions for after graduating in May of 2025
 
 ## Repositories 
 https://github.com/precise-lab/nf_crt_dynamic_imaging
+https://github.com/precise-lab/SRT_cylindrical_aperture
 
 ## Publications
 *	L. Lozenski, R. M. Cam, M. D. Pagel, M. A. Anastasio and U. Villa, ProxNF: Neural Field Proximal Training for High-Resolution 4D Dynamic Image Reconstruction, in IEEE Transactions on Computational Imaging, vol. 10, pp. 1368-1383, 2024, doi: 10.1109/TCI.2024.3458397) [journal]
